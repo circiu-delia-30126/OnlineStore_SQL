@@ -1,1 +1,3 @@
-# OnlineStore_SQL
+# Online Store SQL Project
+
+This SQL project represents the database design for an Online Store system, which manages suppliers, products, customers, offers, orders, and transactions. The project is designed to ensure efficient data storage, retrieval, and management for a typical e-commerce platform.This project demonstrates the application of core SQL concepts, such as database normalization, foreign key constraints, triggers, views, and stored procedures, to build a robust and functional e-commerce backend.
